@@ -20,60 +20,48 @@ I work hands-on — building labs, deploying infrastructure, structuring reposit
 
 ## Core Focus
 
-- **Cloud Architecture** — Design, deploy, and document scalable infrastructure
-- **Infrastructure as Code** — Reproducible environments, clean automation
-- **Networking & Security** — VPC, IAM, subnets, security groups, access control
-- **Data Engineering & Analytics** — Pipelines, SQL, structured data workflows
-- **AI Agent Development** — LLM-integrated workflows, agent-oriented prototypes
-- **Automation** — Terminal-first, script-driven, repeatable processes
+- **☁️ Cloud Architecture**: Design, deploy, and document scalable infrastructure
+- **🏗️ Infrastructure as Code**: Reproducible environments, clean automation
+- **🔐 Networking & Security**: VPC, IAM, subnets, security groups, access control
+- **📊 Data Engineering & Analytics**: Pipelines, SQL, structured data workflows
+- **🤖 AI Agent Development**: LLM-integrated workflows, agent-oriented prototypes
+- **⚙️ Automation**: Terminal-first, script-driven, repeatable processes
+
+---
 
 ---
 
 ## Tech Stack
 
-**Cloud & Infrastructure**
+### Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=174EA6)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=005A9C)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111&labelColor=C99700)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0B5CAD)
 
-**Programming & Data**
+### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=1E4E79)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F4F73)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white&labelColor=4285F4)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=2F6E17)
+![JSON](https://img.shields.io/badge/JSON-444444?style=flat-square&logo=json&logoColor=white&labelColor=1F1F1F)
 
-**Dev Tools & Workflow**
+### Dev Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=A62E1F)
+![GitHub](https://img.shields.io/badge/GitHub-2DA44E?style=flat-square&logo=github&logoColor=white&labelColor=161B22)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=005B99)
+![WSL](https://img.shields.io/badge/WSL-0EA5E9?style=flat-square&logo=windows-terminal&logoColor=white&labelColor=075985)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white&labelColor=5B21B6)
 
-**AI / Automation**
+### AI / Automation
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-## What I'm Building
-
-My GitHub is structured as a technical portfolio — organized by domain, documented with purpose.
-
-Current project areas include:
-
-- **AWS Architecture Labs** — VPC design, EC2 deployment, subnets, routing, NAT gateways, security groups
-- **IAM & Security** — Role-based access control, policy management, least-privilege configurations
-- **Serverless Workflows** — Lambda functions, event-driven patterns on AWS
-- **Data Exercises** — SQL queries, structured datasets, early-stage pipeline work
-- **Automation Scripts** — Bash and Python utilities for infrastructure tasks
-- **AI Agent Prototypes** — Experiments with LLM APIs, agent logic, and tool-use patterns
-
-Each project follows a consistent structure: clear documentation, organized file hierarchy, and reproducible configuration. The goal is a portfolio that reflects technical depth, not just activity.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1F6F2A)
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white&labelColor=0B6B53)
+![LLM%20Workflows](https://img.shields.io/badge/LLM%20Workflows-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=6D28D9)
 
 ---
 
@@ -106,7 +94,7 @@ Areas I'm actively deepening:
 
 My objective is to work at the intersection of **Cloud Infrastructure**, **Data Systems**, and **Intelligent Automation** — building environments that are reliable, observable, and increasingly autonomous.
 
-Near-term: Cloud Engineer / Solutions Architect with strong data fundamentals and security awareness.  
+Near-term: Cloud Engineer / Solutions Architect with strong data fundamentals and security awareness.
 Long-term: Architect-level work where infrastructure, data pipelines, and AI agent systems converge.
 
 I'm building toward roles where infrastructure isn't just deployed — it's designed, documented, and built to scale.
@@ -115,11 +103,12 @@ I'm building toward roles where infrastructure isn't just deployed — it's desi
 
 ## Let's Connect
 
-**GitHub:** [github.com/jdvalverde14](https://github.com/jdvalverde14)  
-**Location:** Medellín, Antioquia, Colombia  
+[![GitHub](https://img.shields.io/badge/GitHub-jdvalverde14-0FBF3E?style=flat-square&logo=github&logoColor=white&labelColor=161B22)](https://github.com/jdvalverde14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/jdvalverde14/)
+[![Google%20Skills%20Boost](https://img.shields.io/badge/Google%20Skills%20Boost-View%20Profile-BF652E?style=flat-square&logo=googlecloud&logoColor=white&labelColor=8A4B22)](https://www.skills.google/public_profiles/f95271fd-90b1-4d0e-b729-1fd02fd22d9f)
+![Location](https://img.shields.io/badge/Location-Medell%C3%ADn%2C%20Colombia-009D7E?style=flat-square&logo=googlemaps&logoColor=white&labelColor=006B57)
 
-Open to technical conversations, collaboration on cloud or data projects, and opportunities aligned with Cloud, Data, or AI Engineering.  
-If you're building something serious, I'm interested in talking.
+Open to technical conversations, collaboration on cloud and data projects, and opportunities aligned with Cloud, Data, and AI Engineering
 
 ---
 
