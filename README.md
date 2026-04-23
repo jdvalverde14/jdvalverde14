@@ -35,9 +35,9 @@ I work hands-on — building labs, deploying infrastructure, structuring reposit
 
 ### Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=174EA6)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=005A9C)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&labelColor=232F3E)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-c70053?style=flat-square&logo=googlecloud&logoColor=white&labelColor=c70053)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111&labelColor=C99700)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0B5CAD)
 
