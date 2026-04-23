@@ -1,5 +1,7 @@
 # Joel David Gonzalez Valverde
 
+![Imagen-Portada](/Screenshoots/Portada1.png)
+
 ### Mechanical Engineer → Cloud, Data & AI Engineering
 
 > Building infrastructure with intent. Documenting every step.
@@ -29,39 +31,37 @@ I work hands-on — building labs, deploying infrastructure, structuring reposit
 
 ---
 
----
-
 ## Tech Stack
 
 ### Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&labelColor=232F3E)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-c70053?style=flat-square&logo=googlecloud&logoColor=white&labelColor=c70053)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111&labelColor=C99700)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0B5CAD)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&labelColor=252F3E&color=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-C70053?style=flat-square&labelColor=8F003C&color=C70053)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&labelColor=005A9C&color=0078D4)
+![Linux](https://img.shields.io/badge/Linux-5A87C5?style=flat-square&labelColor=020204&color=5A87C5)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0B5CAD&color=2496ED)
 
 ### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=1E4E79)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F4F73)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white&labelColor=4285F4)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=2F6E17)
-![JSON](https://img.shields.io/badge/JSON-444444?style=flat-square&logo=json&logoColor=white&labelColor=1F1F1F)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&labelColor=1E4E79&color=77b26c)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&labelColor=1F4F73&color=336791)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&labelColor=174EA6&color=4285F4)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&labelColor=2F6E17&color=4EAA25)
+![JSON](https://img.shields.io/badge/JSON-444444?style=flat-square&labelColor=1F1F1F&color=444444)
 
 ### Dev Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=A62E1F)
-![GitHub](https://img.shields.io/badge/GitHub-2DA44E?style=flat-square&logo=github&logoColor=white&labelColor=161B22)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=005B99)
-![WSL](https://img.shields.io/badge/WSL-0EA5E9?style=flat-square&logo=windows-terminal&logoColor=white&labelColor=075985)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white&labelColor=5B21B6)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&labelColor=A62E1F&color=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-2DA44E?style=flat-square&labelColor=161B22&color=2DA44E)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&labelColor=005B99&color=007ACC)
+![WSL](https://img.shields.io/badge/WSL-0EA5E9?style=flat-square&labelColor=075985&color=0EA5E9)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&labelColor=5B21B6&color=7C3AED)
 
 ### AI / Automation
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1F6F2A)
-![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white&labelColor=0B6B53)
-![LLM%20Workflows](https://img.shields.io/badge/LLM%20Workflows-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=6D28D9)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=1F6F2A&color=339933)
+![OpenAI](https://img.shields.io/badge/OpenAI-444444?style=flat-square&labelColor=000000&color=444444)
+![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-8B5CF6?style=flat-square&labelColor=6D28D9&color=8B5CF6)
 
 ---
 
