@@ -1,6 +1,6 @@
 # Joel David Gonzalez Valverde
 
-![Imagen-Portada](/Screenshoots/Portada1.png)
+![Imagen-Portada](/Screenshoots/Portada3.png)
 
 ### Mechanical Engineer → Cloud, Data & AI Engineering
 
